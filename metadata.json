@@ -1,0 +1,5 @@
+{
+  "name": "Hospital System Nexus",
+  "description": "An intelligent hospital system coordinator that routes requests to specialized medical, billing, patient, and scheduling sub-agents.",
+  "requestFramePermissions": []
+}
